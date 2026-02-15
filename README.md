@@ -34,3 +34,10 @@ Random Forest
 (Ensemble)
 XGBoost
 (Ensemble)**
+
+## Model File
+
+**The trained model file is too large for GitHub.**
+Download it here: [Download all Models](https://drive.google.com/drive/folders/1usMhtuANr2nzEytmf0QbsbF9qoTBTlXi?usp=sharing)
+
+
