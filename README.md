@@ -39,5 +39,6 @@ XGBoost
 
 **The trained model file is too large for GitHub.**
 Download it here: [Download all Models](https://drive.google.com/drive/folders/1usMhtuANr2nzEytmf0QbsbF9qoTBTlXi?usp=sharing)
+After downloading, place the file inside the `model/` folder.
 
 
